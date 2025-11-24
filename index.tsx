@@ -41,19 +41,19 @@ const EVENTS = [
 
 const GALLERY_IMAGES = [
   {
-    src: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    src: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=800&q=80",
     label: "Tech World"
   },
   {
-    src: "https://images.unsplash.com/photo-1514525253440-b393452e8d26?auto=format&fit=crop&w=800&q=80",
+    src: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=800&q=80",
     label: "Cultural Fest"
   },
   {
-    src: "https://images.unsplash.com/photo-1560419015-7c427e8ae5ba?auto=format&fit=crop&w=800&q=80",
+    src: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?auto=format&fit=crop&w=800&q=80",
     label: "Gaming Arena"
   },
   {
-    src: "https://images.unsplash.com/photo-1460661618182-58254cdf9027?auto=format&fit=crop&w=800&q=80",
+    src: "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=800&q=80",
     label: "Artistic Visions"
   },
   {
@@ -61,7 +61,7 @@ const GALLERY_IMAGES = [
     label: "Main Stage"
   },
   {
-    src: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?auto=format&fit=crop&w=800&q=80",
+    src: "https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&q=80",
     label: "Campus Vibes"
   }
 ];
