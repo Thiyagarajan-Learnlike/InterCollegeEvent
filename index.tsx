@@ -147,11 +147,19 @@ const App = () => {
               <div className="text-sm text-slate-400">Time</div>
               <div className="font-bold">10 AM - 5 PM</div>
             </div>
-            <div className="p-4 glass-card rounded-xl md:col-span-2">
-              <MapPin className="w-6 h-6 text-brand-primary mx-auto mb-2" />
+            <a 
+              href="https://maps.app.goo.gl/6DQiBpbUrV4QwsAj8" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="p-4 glass-card rounded-xl md:col-span-2 hover:bg-white/10 transition-colors cursor-pointer group block"
+            >
+              <MapPin className="w-6 h-6 text-brand-primary mx-auto mb-2 group-hover:scale-110 transition-transform" />
               <div className="text-sm text-slate-400">Location</div>
-              <div className="font-bold">Coimbatore, Tamil Nadu</div>
-            </div>
+              <div className="font-bold flex items-center justify-center gap-1">
+                Coimbatore, Tamil Nadu
+                <ExternalLink className="w-3 h-3 opacity-50" />
+              </div>
+            </a>
           </div>
         </div>
       </section>
